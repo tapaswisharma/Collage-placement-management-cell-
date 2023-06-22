@@ -52,7 +52,7 @@ const About = () => {
           img=''
           title='This is React SCET Student Management System Application with Routing using
           Firebase database'
-          author='Mohammad Abdul Affan'
+          author='Tapaswi'
           />
       </div>  
       
@@ -67,7 +67,7 @@ const About = () => {
     
     <Popup trigger={<button> Click to Get Google Firebase  Account Creditionals </button>} 
      position="right center">
-      <div>scethydplacement</div>
+      <div>vitchennaiplacement</div>
       <button>@admin123</button>
     </Popup>
   </div>
